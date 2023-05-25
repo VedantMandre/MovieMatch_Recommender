@@ -38,3 +38,6 @@ A list of movies that you have added to your watchlist
 
 # 📮 Contact
 If you have any questions or feedback, please feel free to contact me at vedant.mandre@pace.edu
+
+![image](https://github.com/VedantMandre/MovieMatch_Recommender/assets/114442140/0cc70fe3-0fa5-4cbf-8fae-99c434b9f273)
+
