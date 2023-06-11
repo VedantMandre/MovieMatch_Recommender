@@ -1,7 +1,7 @@
 # 🎥 MovieMatch Recommender 🍿
 
 # 🧐 Introduction
-MovieMatch Recommender is a machine learning model that recommends movies to users based on their past viewing history. The model is trained on a dataset of over 50,000 movies and 10 million user ratings.
+MovieMatch Recommender is a machine learning model that recommends movies to users based on their past viewing history. The model is trained on a dataset of over 50,000 movies and 10 million user ratings
 
 # 👥 Who can benefit?
 MovieMatch Recommender can benefit a variety of stakeholders, including:
